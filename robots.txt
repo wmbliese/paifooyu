@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quuodogeib.abicode.com/sitemap.xml
